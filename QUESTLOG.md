@@ -4,7 +4,7 @@
 
 ### Quest 1: The Sync Spell (5 min, 20 XP)
 Goal: prove your first commit reached GitHub.
-- [ ] github.com/nT-pen/js-learning shows your new README sentence and 2 commits
+- [x] github.com/nT-pen/js-learning shows your new README sentence and 2 commits
 Won when: you can see both on the page.
 
 ### Quest 2: Scroll of Welcome (25 min, 30 XP)
